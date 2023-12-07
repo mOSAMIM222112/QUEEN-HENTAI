@@ -56,7 +56,7 @@ global.dygp = 'https://chat.whatsapp.com/GBZUFD9zmGn8p5oFhP0w7Q'
 global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
 global.fgyt = 'https://chat.whatsapp.com/GBZUFD9zmGn8p5oFhP0w7Q'
 global.fgpyp = 'https://chat.whatsapp.com/GBZUFD9zmGn8p5oFhP0w7Q'
-global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
+global.fglog = 'https://ibb.co/z26hsz6' 
 
 
 global.wait = '*💝 _Waiting Bro Uploading by 🫰MOSAMIM M.S.M🫰..._*'
